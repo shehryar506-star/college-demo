@@ -1,7 +1,7 @@
 # college-demo
 This is my First Project
 <br>
-i love myself
+I can do every thing i put my mind to 
 <br>
 Author - (Shehryar Imtiaz)
 wtf
